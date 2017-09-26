@@ -7,7 +7,7 @@
   
   <dependencies>
   
-  	<!-- https://mvnrepository.com/artifact/com.google.zxing/core -->
+  	<!-- 二维码 https://mvnrepository.com/artifact/com.google.zxing/core -->
 	<dependency>
 	    <groupId>com.google.zxing</groupId>
 	    <artifactId>core</artifactId>
