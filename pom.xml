@@ -4,4 +4,16 @@
   <artifactId>QR-Code</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
+  
+  <dependencies>
+  
+  	<!-- https://mvnrepository.com/artifact/com.google.zxing/core -->
+	<dependency>
+	    <groupId>com.google.zxing</groupId>
+	    <artifactId>core</artifactId>
+	    <version>3.3.0</version>
+	</dependency>
+	
+  </dependencies>
+  
 </project>
